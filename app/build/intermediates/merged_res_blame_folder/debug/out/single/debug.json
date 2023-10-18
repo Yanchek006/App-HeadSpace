@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_finalgirl.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\finalgirl.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quotes.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\fragment_quotes.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_guided_meditation_girl.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\guided_meditation_girl.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_breathing_guided_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\breathing_guided_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcomebackground.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\welcomebackground.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_password_24.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_achievement.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\activity_achievement.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crown.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\crown.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_music_player_from_frequency.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\fragment_music_player_from_frequency.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lavendor_border.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\lavendor_border.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgfor_frequency_fragment.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\bgfor_frequency_fragment.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_music_player.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\fragment_music_player.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_mini_relaxation_guided_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\mini_relaxation_guided_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_award1.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\award1.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_frequency.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\fragment_frequency.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_awareness_overthinking_guided_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\awareness_overthinking_guided_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_award3.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\award3.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maintop.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\maintop.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lock.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\lock.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_grateful_affirmations_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\grateful_affirmations_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable__welcomebackground.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\_welcomebackground.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_award2.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\award2.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_morning.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\morning.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lion.jpg.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\lion.jpg"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardview_music_frequency.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\cardview_music_frequency.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quotes.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\quotes.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_layout.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\listview_layout.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_yogi.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\yogi.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_waves_sound_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\waves_sound_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_simply_being_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\simply_being_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_alphamale_affirmations.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\alphamale_affirmations.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mybutton.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\mybutton.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musicplayer_view_background.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\musicplayer_view_background.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_frequency.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\music_frequency.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_music_player.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\layout\\activity_music_player.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_om_chanting_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\om_chanting_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_mini_break_work_mixdown.mp3.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\mini_break_work_mixdown.mp3"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\raw_yogaman.json.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\raw\\yogaman.json"
+    },
+    {
+        "merged": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Microsoft\\AndroidSDK\\25\\build-tools\\25.0.3\\HeadSpace\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    }
+]

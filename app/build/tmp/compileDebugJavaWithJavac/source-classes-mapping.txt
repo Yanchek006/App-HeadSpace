@@ -1,0 +1,92 @@
+com/example/meditationapp/MusicPlayerFragment.java
+ com.example.meditationapp.MusicPlayerFragment
+ com.example.meditationapp.MusicPlayerFragment$1
+ com.example.meditationapp.MusicPlayerFragment$2
+ com.example.meditationapp.MusicPlayerFragment$2$1
+ com.example.meditationapp.MusicPlayerFragment$2$1$1
+ com.example.meditationapp.MusicPlayerFragment$2$1$2
+ com.example.meditationapp.MusicPlayerFragment$3
+ com.example.meditationapp.MusicPlayerFragment$3$1
+com/example/meditationapp/databinding/FragmentQuotesBinding.java
+ com.example.meditationapp.databinding.FragmentQuotesBinding
+com/example/meditationapp/FrequencyFragment.java
+ com.example.meditationapp.FrequencyFragment
+ com.example.meditationapp.FrequencyFragment$1
+ com.example.meditationapp.FrequencyFragment$2
+com/example/meditationapp/DatabaseHelper.java
+ com.example.meditationapp.DatabaseHelper
+com/example/meditationapp/databinding/FragmentMusicPlayerBinding.java
+ com.example.meditationapp.databinding.FragmentMusicPlayerBinding
+com/example/meditationapp/databinding/ActivitySplashScreenBinding.java
+ com.example.meditationapp.databinding.ActivitySplashScreenBinding
+com/example/meditationapp/databinding/ListviewLayoutBinding.java
+ com.example.meditationapp.databinding.ListviewLayoutBinding
+com/example/meditationapp/databinding/FragmentFrequencyBinding.java
+ com.example.meditationapp.databinding.FragmentFrequencyBinding
+com/example/meditationapp/databinding/ActivitySignupBinding.java
+ com.example.meditationapp.databinding.ActivitySignupBinding
+com/example/meditationapp/listAdapter.java
+ com.example.meditationapp.listAdapter
+com/example/meditationapp/MusicPlayerFromFrequencyFragment.java
+ com.example.meditationapp.MusicPlayerFromFrequencyFragment
+ com.example.meditationapp.MusicPlayerFromFrequencyFragment$1
+ com.example.meditationapp.MusicPlayerFromFrequencyFragment$2
+ com.example.meditationapp.MusicPlayerFromFrequencyFragment$2$1
+ com.example.meditationapp.MusicPlayerFromFrequencyFragment$3
+ com.example.meditationapp.MusicPlayerFromFrequencyFragment$3$1
+com/example/meditationapp/databinding/FragmentProfileBinding.java
+ com.example.meditationapp.databinding.FragmentProfileBinding
+com/example/meditationapp/AchievementActivity.java
+ com.example.meditationapp.AchievementActivity
+com/example/meditationapp/databinding/ActivityAchievementBinding.java
+ com.example.meditationapp.databinding.ActivityAchievementBinding
+com/example/meditationapp/databinding/ActivityMusicPlayerBinding.java
+ com.example.meditationapp.databinding.ActivityMusicPlayerBinding
+com/example/meditationapp/SignupActivity.java
+ com.example.meditationapp.SignupActivity
+ com.example.meditationapp.SignupActivity$1
+ com.example.meditationapp.SignupActivity$2
+com/example/meditationapp/databinding/ActivityMainBinding.java
+ com.example.meditationapp.databinding.ActivityMainBinding
+com/example/meditationapp/listview.java
+ com.example.meditationapp.listview
+com/example/meditationapp/QuotesFragment.java
+ com.example.meditationapp.QuotesFragment
+ com.example.meditationapp.QuotesFragment$1
+ com.example.meditationapp.QuotesFragment$2
+ com.example.meditationapp.QuotesFragment$2$1
+ com.example.meditationapp.QuotesFragment$3
+ com.example.meditationapp.QuotesFragment$4
+ com.example.meditationapp.QuotesFragment$5
+ com.example.meditationapp.QuotesFragment$6
+com/example/meditationapp/BuildConfig.java
+ com.example.meditationapp.BuildConfig
+com/example/meditationapp/HomeFragment.java
+ com.example.meditationapp.HomeFragment
+ com.example.meditationapp.HomeFragment$1
+ com.example.meditationapp.HomeFragment$2
+ com.example.meditationapp.HomeFragment$3
+ com.example.meditationapp.HomeFragment$4
+com/example/meditationapp/databinding/FragmentMusicPlayerFromFrequencyBinding.java
+ com.example.meditationapp.databinding.FragmentMusicPlayerFromFrequencyBinding
+com/example/meditationapp/databinding/FragmentHomeBinding.java
+ com.example.meditationapp.databinding.FragmentHomeBinding
+com/example/meditationapp/databinding/ActivityLoginBinding.java
+ com.example.meditationapp.databinding.ActivityLoginBinding
+com/example/meditationapp/ProfileFragment.java
+ com.example.meditationapp.ProfileFragment
+ com.example.meditationapp.ProfileFragment$1
+ com.example.meditationapp.ProfileFragment$2
+ com.example.meditationapp.ProfileFragment$3
+ com.example.meditationapp.ProfileFragment$4
+ com.example.meditationapp.ProfileFragment$5
+com/example/meditationapp/LoginActivity.java
+ com.example.meditationapp.LoginActivity
+ com.example.meditationapp.LoginActivity$1
+ com.example.meditationapp.LoginActivity$2
+com/example/meditationapp/SplashScreenActivity.java
+ com.example.meditationapp.SplashScreenActivity
+ com.example.meditationapp.SplashScreenActivity$1
+com/example/meditationapp/MainActivity.java
+ com.example.meditationapp.MainActivity
+ com.example.meditationapp.MainActivity$1
